@@ -1,4 +1,3 @@
-### Where You Can Find Me
 #### Active
 - [Instagram](https://www.instagram.com/rikaklassen/) / [Pixelfed](https://pixelfed.social/rikaklassen)
 - ~~Twitter~~ / Mastodon

@@ -1,4 +1,3 @@
-### Social Media
 #### Active  
 - [Instagram](https://www.instagram.com/rikaklassen/) / [Pixelfed](https://pixelfed.social/rikaklassen)
 - ~~Twitter~~ / Mastodon
@@ -25,5 +24,3 @@
 
 #### Archival  
 - [Internet Archive](https://archive.org/details/@rika_klassen)
-
-### Contact  

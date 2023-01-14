@@ -24,3 +24,9 @@
 
 #### Archival  
 - [Internet Archive](https://archive.org/details/@rika_klassen)
+
+### How To Support Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U4GHE0Q)
+
+### Others Needing Support
+- [PayPal](https://www.paypal.me/bglamours) - Bestie is going through college and she needs all the support she can get.

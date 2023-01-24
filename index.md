@@ -7,7 +7,7 @@
 - [Vimeo](https://vimeo.com/rikaklassen)
 
 #### Experimental  
-- [Tumblr](https://www.tumblr.com/rikaklassen) / [Cohost](https://cohost.org/rikaklassen/) / ~~Posterous~~
+- [Tumblr](https://rikaklassen.tumblr.com) / [Cohost](https://cohost.org/rikaklassen/) / ~~Posterous~~
 
 #### Parked  
 - [Twitch](https://www.twitch.tv/rikaklassen)

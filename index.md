@@ -20,7 +20,7 @@
 - ~~WordPress~~
 
 #### Repositories  
-- [GitHub](https://github.com/rikaklassen) / [GitLab](https://gitlab.com/rikaklassen)
+- [GitHub](https://github.com/rikaklassen) / [GitLab](https://gitlab.com/rikaklassen) / [Codeberg](https://codeberg.org)
 
 #### Archival  
 - [Internet Archive](https://archive.org/details/@rika_klassen)
